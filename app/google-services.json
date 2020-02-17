@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "514589884095",
+    "firebase_url": "https://appchatlol.firebaseio.com",
+    "project_id": "appchatlol",
+    "storage_bucket": "appchatlol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514589884095:android:ecaabb8fcceb0b4509500a",
+        "android_client_info": {
+          "package_name": "com.csctd.appgrouptd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514589884095-19pk83g865khg0g64j1m5uuh2tl4mvmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.csctd.appgrouptd",
+            "certificate_hash": "f32bc62c6c8da9e266fcc1f0eb4be47010ec54a5"
+          }
+        },
+        {
+          "client_id": "514589884095-eui7eu23hijjku0n2ah4ge8qqk70ld64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbAsXMZzla6epvOUY_RV1ZHMbfSm3xlFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514589884095-eui7eu23hijjku0n2ah4ge8qqk70ld64.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "514589884095-56j0qver29uj1qbf0tv7egeljocamnge.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AppChatLoL"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
